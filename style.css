@@ -57,3 +57,7 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+p{
+  font-size: 2rem,;
+  color: blue;
+}
